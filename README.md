@@ -8,8 +8,8 @@ at all). `main.ts` is the harness driver: it reads every case from
 writes `/output/answers.json`.
 
 [![make.fun](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
-[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/dedenabduloh07-ctrl-site-generator-speed-01/rank.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
-[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/dedenabduloh07-ctrl-site-generator-speed-01/reward.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
+[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/dedenabduloh07-ctrl/site-generator-speed-01/rank.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
+[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/dedenabduloh07-ctrl/site-generator-speed-01/reward.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
 
 ## Speed
 
